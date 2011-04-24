@@ -26,6 +26,6 @@
   <script src="../src/dimensions.js"></script>
 </head>
 <body>
-	<p>CSP Test Page</p>
+<p>CSP Test Page</p>
 </body>
 </html>
